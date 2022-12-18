@@ -1,0 +1,25 @@
+#main-center {
+    background-color: rgba(255, 255, 255, 0.85);
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+#main-title {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+#joke {
+    margin: 0.67em auto 0.67em auto;
+}
+
+#jokesButton {
+    margin: 0.67em auto 0.67em auto;
+}
+
+.rating {
+    margin: 0.67em auto 0.67em auto;
+}
+
